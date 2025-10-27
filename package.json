@@ -1,0 +1,41 @@
+{
+  "name": "gneox-theme",
+  "displayName": "Gneox Theme",
+  "description": "Gneox Theme \u2014 neon-green UI fused two-tone syntax.",
+  "version": "1.1.0",
+  "publisher": "gneox",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/gneox-theme.git"
+  },
+  "bugs": {
+    "url": "https://example.com/gneox-theme/issues"
+  },
+  "keywords": [
+    "gneox",
+    "obscuro",
+    "theme",
+    "noctis",
+    "neon",
+    "green",
+    "modern"
+  ],
+  "license": "MIT",
+  "homepage": "https://example.com/gneox-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gneox theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gneox-theme.json"
+      }
+    ]
+  }
+}
