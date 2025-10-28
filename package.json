@@ -2,7 +2,7 @@
   "name": "gneox-theme",
   "displayName": "Gneox Theme",
   "description": "A sleek matte black theme with neon green accents and a subtle glow.",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "publisher": "neoxsa",
   "engines": {
     "vscode": "^1.70.0"

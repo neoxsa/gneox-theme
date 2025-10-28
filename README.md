@@ -14,10 +14,14 @@ A sleek, simple and modern Visual Studio Code theme that combines neon-green UI 
 
 ![Gneox Theme Screenshot](images/screenshot.png)
 
+![Gneox Theme Screenshot](images/preview.png)
+
 ## Feedback
 
-If you have suggestions or find any issues, please feel free to:
+If you have suggestions
+
 - [Open an issue](https://github.com/neoxsa/gneox-theme/issues)
+
 - [Submit a pull request](https://github.com/neoxsa/gneox-theme/pulls)
 
 ## License
